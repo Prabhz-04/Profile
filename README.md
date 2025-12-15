@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, It's me Prabhakaran</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3><br>
 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 I’m currently working on **College-ERP**
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif"><br>
 
 - 🌱 I’m currently learning **Full Stack Development**
 
