@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 
-- - Engineeing at [<img src="https://www.einsteincollege.ac.in/" height="24">](https://www.einsteincollege.ac.in/),
+-  Engineeing at [<img src="https://www.einsteincollege.ac.in/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.einsteincollege.ac.in/),
 
 - 💬 Ask me about **Java, React.Js**
 
