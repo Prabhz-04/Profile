@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prabhakaran</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhz-04" alt="prabhz-04" /></a> </p>
 
 - 🔭 I’m currently working on **College-ERP**
 
