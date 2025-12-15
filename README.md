@@ -14,8 +14,6 @@
 
 - 📄 Know about my experiences [https://prabha.tiiny.site](https://prabha.tiiny.site)
 
-- ⚡ Fun fact **I've backpacked through Southeast Asia**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prba.x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prba.x" height="30" width="40" /></a>
@@ -34,5 +32,7 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhz-04&show_icons=true&locale=en&layout=compact" alt="prabhz-04" /></p>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhz-04&show_icons=true&locale=en" alt="prabhz-04" /></p>
 
