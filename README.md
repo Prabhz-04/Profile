@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prabhakaran</h1>
-<h3 align="center">A passionate frontend developer from India</h3><br>
+<h3 align="center">A Passionate Full Stack Developer</h3><br>
 
 
 - 🔭 I’m currently working on **College-ERP**
@@ -8,9 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Team**
 
-- 🤝 I’m looking for help with **College-ERP**
-
-- 💬 Ask me about **recat, bootstrap**
+- 💬 Ask me about **Java, React.Js**
 
 - 📫 How to reach me **prbhzoffice@gmail.com**
 
@@ -36,6 +34,5 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhz-04&show_icons=true&locale=en&layout=compact" alt="prabhz-04" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhz-04&show_icons=true&locale=en" alt="prabhz-04" /></p>
 
